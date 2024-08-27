@@ -2,3 +2,4 @@ alpine
 python:alpine3.19
 ubuntu:latest
 centos:latest
+80x86/typecho:latest
